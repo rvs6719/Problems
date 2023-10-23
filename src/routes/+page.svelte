@@ -1,7 +1,3 @@
-<script> 
-</script>
-
-
-<a href="src\routes\Ceasar\+page.svelte">Цезарь</a>
-<a href="src\routes\Atbash\+page.svelte">Атбаш</a>
+<a href="/ceasar">Цезарь</a>
+<a href="/atbash">Атбаш</a>
 
